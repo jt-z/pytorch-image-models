@@ -1,3 +1,7 @@
+# 研究主流的 CV 模型的实现
+
+Fork后，用来参考 pytorch-image-models 库中的实现来具体研究的。
+
 # PyTorch Image Models
 - [What's New](#whats-new)
 - [Introduction](#introduction)
